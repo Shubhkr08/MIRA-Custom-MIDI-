@@ -8,11 +8,11 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 
 | Index | Component | Part Number | Source | Quantity | Unit Price (USD) | Total Price (USD) | Notes |
 |------|-----------|-------------|--------|----------|------------------|------------------|------|
-| 1 | Cherry MX Mechanical Keyswitch | MX2A-HC1B | DigiKey | 40 | 1.95 | 78.00 | |
-| 2 | Keycaps Set | MX Compatible Keycaps | DigiKey | 1 | 25.00 | 25.00 | For 40 keys |
-| 3 | Signal Diode | 1N4148TR | DigiKey | 40 | 0.041 | 1.64 | |
-| 4 | Raspberry Pi Pico | SC0917 | DigiKey | 1 | 5.00 | 5.00 | |
-| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | DigiKey | 3 | 2.65 | 7.95 | |
+| 1 | Bittersweet Switch | MX2A-HC1B | stackskb.com | (Pack of 45)  × 1 | 17 | 17 | |
+| 2 | Keycaps Set | MX Compatible Keycaps | meckeys.com | 8(pack of 5) | 1.1 | 8.8 | For 40 keys |
+| 3 | Signal Diode | 1N4148TR | makerbazar.in | 4(pack of 10) | 0.15 | 0.6 | |
+| 4 | Raspberry Pi Pico | SC0917 | makerbazar.in | 1 | 6.12 | 6.12 | |
+| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | Exixting | 3 | 0 | Already have | |
 | 6 | PCB Fabrication | JLCPCB | JLCPCB | 1 | 15.80 | 15.80 | |
 | 7 | PCB Shipping | JLCPCB Shipping | JLCPCB | 1 | 17.77 | 17.77 | |
 | 8 | Rotary Encoder | EC11 | Existing | 3 | 0 | 0 | Already have |
@@ -20,7 +20,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 | 10 | M3 Heat-set Inserts | M3 Heatset | Existing | 4 | 0 | 0 | Already have |
 
 ### Total Project Cost
-**$151.16**
+**$66.02**
 
 ## Schematic & PCB
 <br><img width="1162" height="651" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/6d3bd7b6-d16d-4338-ad82-9379a52a076d" />
